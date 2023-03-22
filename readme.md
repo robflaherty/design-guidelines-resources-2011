@@ -1,5 +1,3 @@
-(Note: This is incomplete. I have more links to add, and then it needs to be pruned and better organized.)
-
 ## Reading
 ### Books
 
